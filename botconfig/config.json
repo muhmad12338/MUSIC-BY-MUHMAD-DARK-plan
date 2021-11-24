@@ -1,5 +1,5 @@
 {
-  "token": "",
+  "token": "ODgyMzIzNDQ1Mzk5MDMxODM4.YS5tvg.8amogGotwsk2v34wdwjXuiUIykQ",
   "prefix": "!",
   "ksoftapi": "",
   
@@ -15,8 +15,8 @@
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "_WHZsOcMbwcgRvRLWnbfwgLWSvUJT_Dm",
+    "clientID": "882323445399031838"
   }
 
 }
